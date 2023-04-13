@@ -2,3 +2,15 @@ header {
     background-color: #151965;
     color: white;
 }
+
+    .escola {
+        background-image: linear-gradient(#2B2B2B,#0c0c0c);
+
+        color: white;
+        font-size: 21px;
+        padding: 300px 250px;
+    }
+
+    .escola-titulo {
+        padding: 24px 0;
+    }
