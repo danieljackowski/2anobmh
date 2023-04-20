@@ -1,14 +1,16 @@
 header {
-    background-color: #151965;
+    background-image: linear-gradient(to top, #20308B, #1EB0E5);
     color: white;
+    font-family: sans-serif;
 }
 
     .escola {
-        background-image: linear-gradient(#2B2B2B,#0c0c0c);
+        background-image: linear-gradient(#E7DDBB,#002B8D);
 
         color: white;
         font-size: 21px;
         padding: 300px 250px;
+        font-family: sans-serif;
     }
 
     .escola-titulo {
